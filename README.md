@@ -4,7 +4,12 @@
 
 
 
-<div class="images container">
+<div class="images container"
+element {
+    height = "50%" !important;
+    width = "50%" !important;
+    flex-direction = "row" !important;
+}>
 <img src="./assets/me.png">
 <img src="./assets/QRCode.png">
 </div>
