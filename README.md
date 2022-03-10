@@ -4,14 +4,9 @@
 
 
 
-<div class="images container"
-element {
-    height = "50%" !important;
-    width = "50%" !important;
-    flex-direction = "column" !important;
-}>
-<img src="./assets/me.png">
-<img src="./assets/QRCode.png">
+<div class="images container">
+<img src="./assets/me.png" style="float:left;width:100px;height:100px">
+<img src="./assets/QRCode.png" style="float:right;width:100px;height:100px">
 </div>
 
 <div align="left">
