@@ -1,12 +1,12 @@
 <div align="center"
 
-# Minding My Bidness
+# Minding My Business
 
 
 
 <div class="images container">
-<img src="../assets/me.png">
-<img src="../assets/QRCode.png>
+<img src="./assets/me.png">
+<img src="./assets/QRCode.png>
 </div>
 
 <div align="left">
