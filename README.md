@@ -5,8 +5,8 @@
 
 
 <div class="images container">
-<img src="./assets/me.png" style="float:left;width:100px;height:100px">
-<img src="./assets/QRCode.png" style="float:right;width:100px;height:100px">
+<img src="./assets/me.png" style="float:left;width:250px;height:250px">
+<img src="./assets/QRCode.png" style="float:right;width:250px;height:250px">
 </div>
 
 <div align="left">
@@ -16,7 +16,7 @@
 
 #### For now, the primary goal of this repository is a simple card that supplies some links to professsional data.<br>
 
-#### The image to scan for response is [hither](https://github.com/Christopher-Caswell/ARJSCard/blob/main/assets/me.png) and will probably be updated a much slower rate than my face itself. The QR code that leads here is located at [yon](https://github.com/Christopher-Caswell/ARJSCard/blob/main/assets/QRCode.png), of course. Hate to not have circular references somewhere. You can use the above images as well.
+#### The image to scan for response is [hither](https://github.com/Christopher-Caswell/ProfessionalARCard/blob/main/assets/me.png) and will probably be updated a much slower rate than my face itself. The QR code that leads here is located at [yon](https://github.com/Christopher-Caswell/ProfessionalARCard/blob/main/assets/QRCode.png), of course. Hate to not have circular references somewhere. You can use the above images as well.
 
 #### The project itself was created with the use of A-Frame, a Javascript library produced in ARJS by [these beautiful people](https://github.com/AR-js-org/AR.js)
 
