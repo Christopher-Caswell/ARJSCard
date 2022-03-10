@@ -8,7 +8,7 @@
 element {
     height = "50%" !important;
     width = "50%" !important;
-    flex-direction = "row" !important;
+    flex-direction = "column" !important;
 }>
 <img src="./assets/me.png">
 <img src="./assets/QRCode.png">
